@@ -16,7 +16,13 @@ public class NumberNStringProgram {
 			fact=fact*i;
 		}
 		System.out.println(fact);
-		
+//==================================================
+		int c=6,facto=1;
+		for(i=1;i<=c;i++)
+		{
+			facto=facto*i;
+		}
+		System.out.println(facto);
 	}
 
 }
